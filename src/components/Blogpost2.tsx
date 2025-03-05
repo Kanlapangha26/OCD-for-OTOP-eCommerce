@@ -72,12 +72,11 @@ export default function Blogpost2() {
                 </ol>
               </p>
               <p>
-              ทฤษฎีระบบ สามารถสรุปได้ดังนี้
-              {" "}
+                ทฤษฎีระบบ สามารถสรุปได้ดังนี้{" "}
                 <ol style={{ listStyleType: "decimal" }} className="ml-3">
                   {" "}
                   <li>
-                     องค์การเป็นระบบที่มีขอบเขต Inputs วัตถุดิบ Suppliers
+                    องค์การเป็นระบบที่มีขอบเขต Inputs วัตถุดิบ Suppliers
                     เงินทุน/แหล่งทุน ความสามารถของพนักงาน ผู้ถือหุ้น
                     นโยบายของรัฐบาล และกฎระเบียบต่างๆ Throughputs/Transformation
                     Process คือกระบวนการทำงาน กระบวนการแปลง Inputs เป็น Outputs
